@@ -1,0 +1,12 @@
+{
+  "name": "whitespace_obfuscation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "decrypt.js",
+  "scripts": {
+    "encrypt": "node encrypt.js",
+    "decrypt": "node decrypt.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
